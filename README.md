@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, java, javascript**
 
-- 💬 Ask me about **Python, AI-ML, Backend**
+- 💬 Ask me about about **Hackathons,Rrapid Prototyping, or Shipping Projects at 3 AM.**
 
 - 📫 How to reach me **hitensofficial@gmail.com**
 
